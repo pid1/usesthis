@@ -11,12 +11,19 @@ I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/
 
 I use [httpie](https://httpie.io) for interacting with HTTP endpoints and [ripgrep](https://github.com/BurntSushi/ripgrep) for searching through files.
 
-Other than that, it is your usual collection of shell builtins, coreutils, syscalls, and POSIX utility programs.
+I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
 
 ## Productivity
-I use Apple's built-in Reminders application as a shared household task tracker for grocery lists, recurring chores, and one-off tasks. We make extensive use of shared Calender invitations to track shared family events like doctor appointments, household events, and major errands.
 
-I use [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
+* Apple's Reminders as a shared household task tracker for grocery lists, recurring chores, and one-off tasks.
+* Apple's Calendar. We use shared calender invitations to track shared family events like doctor appointments, household events, and major errands.
+* [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
+* [Overcast](https://overcast.fm/) for podcasts.
+* [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures with [youtube-dl](https://youtube-dl.org) and listen to them on the go.
+* [Reeder](https://www.reederapp.com) for RSS. in addition to personal blogs and [lobste.rs](https://lobste.rs), I also use RSS as an efficient way to follow YouTube channels.
+* [Paste](https://pasteapp.io) as a clipboard manager and cross-device pinboard.
+
+
 
 ## Writing
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Long-form writing is done in [Ulysses](https://ulysses.app).
