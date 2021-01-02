@@ -20,7 +20,7 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 * [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
 * [Overcast](https://overcast.fm/) for podcasts.
 * [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures with [youtube-dl](https://youtube-dl.org) and listen to them on the go.
-* [Reeder](https://www.reederapp.com) for RSS. in addition to personal blogs and [lobste.rs](https://lobste.rs), I also use RSS as an efficient way to follow YouTube channels.
+* [Reeder](https://www.reederapp.com) for RSS. In addition to personal blogs and [lobste.rs](https://lobste.rs), I also use RSS as an efficient way to follow YouTube channels.
 * [Paste](https://pasteapp.io) as a clipboard manager and cross-device pinboard.
 
 
