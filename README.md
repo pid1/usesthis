@@ -22,7 +22,7 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 * [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures with [youtube-dl](https://youtube-dl.org) and listen to them on the go.
 * [Reeder](https://www.reederapp.com) for RSS. In addition to personal blogs and [lobste.rs](https://lobste.rs), I also use RSS as an efficient way to follow YouTube channels.
 * [Paste](https://pasteapp.io) as a clipboard manager and cross-device pinboard.
-
+* [Magnet](https://magnet.crowdcafe.com) for window management.
 
 
 ## Writing
