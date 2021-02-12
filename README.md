@@ -1,6 +1,6 @@
 # usesthis
 
-A Markdown description of my various workflows in the vein of [Uses This](https://usesthis.com).
+A description of my various workflows in the vein of [Uses This](https://usesthis.com).
 
 ## Coding
 I use [Visual Studio Code](https://code.visualstudio.com) for all of my projects. As mentioned in my [dotfiles](https://github.com/pid1/dotfiles), I usually spin up Digital Ocean instances to use as disposable development environments and connect via the [Remote SSH extension](https://code.visualstudio.com/docs/remote/ssh). I use [TabNine](https://www.tabnine.com) for code completion. I use a variety of per-language extensions based on the project including [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck), [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
