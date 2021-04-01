@@ -24,9 +24,8 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 * [Paste](https://pasteapp.io) as a clipboard manager and cross-device pinboard.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
 
-
 ## Writing
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Long-form writing is done in [Ulysses](https://ulysses.app).
 
 ## Reading
-When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
+When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com). Books owned and read are tracked in [Libib](https://www.libib.com/).
