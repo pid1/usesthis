@@ -17,6 +17,7 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 
 * Apple's Reminders as a shared household task tracker for grocery lists, recurring chores, and one-off tasks.
 * Apple's Calendar. We use shared calender invitations to track shared family events like doctor appointments, household events, and major errands.
+* Apple's Notes app for short-form notetaking.
 * [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
 * [Overcast](https://overcast.fm/) for podcasts.
 * [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures with [youtube-dl](https://youtube-dl.org) and listen to them on the go.
@@ -25,7 +26,7 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 * [Magnet](https://magnet.crowdcafe.com) for window management.
 
 ## Writing
-Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Long-form writing is done in [Ulysses](https://ulysses.app).
+Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Notes are moved to Markdown files for long-term storage.
 
 ## Reading
 When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com). Books owned and read are tracked in [Libib](https://www.libib.com/).
