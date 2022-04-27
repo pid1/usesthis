@@ -9,7 +9,7 @@ I still install [neovim](https://neovim.io/) with a small configuration [snippet
 
 I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/dotfiles/blob/master/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
 
-I use [httpie](https://httpie.io) for interacting with HTTP endpoints and [ripgrep](https://github.com/BurntSushi/ripgrep) for searching through files. I use [steampipe](https://steampipe.io/) for querying cloud providers, and generally send that information into [visidata](https://www.visidata.org/) for visualization, processing, and analysis.
+I use [httpie](https://httpie.io) for interacting with HTTP endpoints and [ripgrep](https://github.com/BurntSushi/ripgrep) for searching through files. I use [steampipe](https://steampipe.io/) for querying cloud providers, and generally send that information into [visidata](https://www.visidata.org/) for visualization, processing, and analysis. I prefer (Tower)[https://www.git-tower.com/mac] when working with Git in corporate environments.
 
 I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
 
