@@ -9,7 +9,7 @@ I still install [neovim](https://neovim.io/) with a small configuration [snippet
 
 I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/dotfiles/blob/master/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
 
-I use [httpie](https://httpie.io) for interacting with HTTP endpoints and [ripgrep](https://github.com/BurntSushi/ripgrep) for searching through files.
+I use [httpie](https://httpie.io) for interacting with HTTP endpoints and [ripgrep](https://github.com/BurntSushi/ripgrep) for searching through files. I use [steampipe](https://steampipe.io/) for querying cloud providers, and generally send that information into [visidata](https://www.visidata.org/) for visualization, processing, and analysis.
 
 I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
 
@@ -28,4 +28,4 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Notes are moved to Markdown files for long-term storage.
 
 ## Reading
-When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com). Books owned and read are tracked in [Libib](https://www.libib.com/).
+When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
