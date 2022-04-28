@@ -17,15 +17,43 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 
 * Apple's Reminders as a shared household task tracker for grocery lists, recurring chores, and one-off tasks.
 * Apple's Calendar. We use shared calender invitations to track shared family events like doctor appointments, household events, and major errands.
-* Apple's Notes app for short-form notetaking.
+* [Ulysses](https://ulysses.app/) for short-form notetaking.
 * [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
 * [Overcast](https://overcast.fm/) for podcasts.
 * [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures with [youtube-dl](https://youtube-dl.org) and listen to them on the go.
-* [Reeder](https://www.reederapp.com) for RSS. In addition to personal blogs and [lobste.rs](https://lobste.rs), I also use RSS as an efficient way to follow YouTube channels.
+* [Reeder](https://www.reederapp.com) for RSS. I use RSS as an efficient way to follow YouTube channels.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
+* [Carrot Weather](https://www.meetcarrot.com/weather/)
+* [Garmin Epix2](https://www.garmin.com/en-US/p/760778) for fitness tracking, paired with a [Index S2](https://www.garmin.com/en-US/p/679362) scale.
 
 ## Writing
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Notes are moved to Markdown files for long-term storage.
 
 ## Reading
 When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
+
+## News
+### Newsletters
+* [The Cloud Security Reading List](https://cloudseclist.com/)
+* [DevOps Weekly](https://www.devopsweekly.com/)
+* [Last Week in AWS](https://www.lastweekinaws.com/)
+* [SRE Weekly](https://sreweekly.com/)
+* [tl;dr sec](https://tldrsec.com/)
+### Aggregation Websites
+* [Lobste.rs](https://lobste.rs/) - I follow via [RSS](https://lobste.rs/rss/) in [Reeder](https://www.reederapp.com).
+### Blogs
+* [Brendan Gregg](https://www.brendangregg.com/blog/)
+* [Brian Krebs](https://krebsonsecurity.com/)
+* [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
+* [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
+* [Dan Luu](https://danluu.com/)
+* [Jessie Frazelle](https://blog.jessfraz.com/)
+* [Julia Evans](https://jvns.ca/)
+* [Letters to a New Developer](https://letterstoanewdeveloper.com/)
+* [No Idea Blog](https://noidea.dog/blog/)
+* [Rachel by the Bay](https://rachelbythebay.com/w/)
+* [Stay SaaSy](https://staysaasy.com/)
+### Podcasts and Video Content
+* [Security Weekly](https://securityweekly.com/)
+* [Usenix](https://www.youtube.com/user/usenixassociation)
+* [Usenix Enigma](https://www.youtube.com/c/USENIXEnigmaConference)
