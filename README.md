@@ -26,8 +26,8 @@ Other tools of note include:
 * [iperf3](https://iperf.fr/) - A tool for active measurements of the maximum achievable bandwidth on IP networks. 
 * [mtr](https://bitwizard.nl/mtr/) - Traceroute and ping combined into once tool, with next hop helpfully visualized.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches the current directory for a regex pattern with user-friendly ergonomics. 
-* [steampipe](https://steampipe.io/) - Query cloud providers with SQL
-* [visidata](https://www.visidata.org/) - Visualization, processing, and analysis
+* [steampipe](https://steampipe.io/) - Query cloud providers with SQL.
+* [visidata](https://www.visidata.org/) - Visualization, processing, and analysis.
 * [youtube-dl](https://youtube-dl.org) - A reliable CLI utility for saving video files offline.
 
 ## Productivity
