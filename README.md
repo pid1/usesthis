@@ -10,6 +10,8 @@ I still install [neovim](https://neovim.io/) with a small configuration [snippet
 
 I prefer [Tower](https://www.git-tower.com/mac) when working with Git in corporate environments.
 
+I use [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) as a screen keep-awake utility.
+
 I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
 
 ### CLI
