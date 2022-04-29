@@ -3,15 +3,31 @@
 A description of my various workflows in the vein of [Uses This](https://usesthis.com).
 
 ## Coding
+### Workflows
 I use [Visual Studio Code](https://code.visualstudio.com) for all of my projects. As mentioned in my [dotfiles](https://github.com/pid1/dotfiles), I usually spin up Digital Ocean instances to use as disposable development environments and connect via the [Remote SSH extension](https://code.visualstudio.com/docs/remote/ssh). I use [TabNine](https://www.tabnine.com) for code completion. I use a variety of per-language extensions based on the project including [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck), [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
 
 I still install [neovim](https://neovim.io/) with a small configuration [snippet](https://github.com/pid1/dotfiles/blob/master/init.vim) into my virtual machine instances for quick edits of configuration files and the like.
 
+I prefer [Tower](https://www.git-tower.com/mac) when working with Git in corporate environments.
+
+I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
+
+### CLI
+I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. 
+
 I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/dotfiles/blob/master/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
 
-I use [httpie](https://httpie.io) for interacting with HTTP endpoints and [ripgrep](https://github.com/BurntSushi/ripgrep) for searching through files. I use [steampipe](https://steampipe.io/) for querying cloud providers, and generally send that information into [visidata](https://www.visidata.org/) for visualization, processing, and analysis. I prefer [Tower](https://www.git-tower.com/mac) when working with Git in corporate environments.
-
-I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
+Other tools of note include:
+* [bat](https://github.com/sharkdp/bat) - A version of `cat` designed for interactive terminal use.
+* [drill](https://www.nlnetlabs.nl/projects/ldns/about/) - Debugging/query tool for DNS/DNSSEC.
+* [fzf](https://github.com/sharkdp/hyperfine) - Flexible fuzzy-finder tool.
+* [gimme-aws-creds](https://github.com/Nike-Inc/gimme-aws-creds) - A CLI that utilizes Okta IdP via SAML to acquire temporary AWS credentials.
+* [httpie](https://httpie.io) - For interacting with HTTP endpoints.
+* [iperf3](https://iperf.fr/) - A tool for active measurements of the maximum achievable bandwidth on IP networks. 
+* [mtr](https://bitwizard.nl/mtr/) - Traceroute and ping combined into once tool, with next hop helpfully visualized.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches the current directory for a regex pattern with user-friendly ergonomics. 
+* [steampipe](https://steampipe.io/) for querying cloud providers
+* [visidata](https://www.visidata.org/) for visualization, processing, and analysis
 
 ## Productivity
 
