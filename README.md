@@ -26,8 +26,9 @@ Other tools of note include:
 * [iperf3](https://iperf.fr/) - A tool for active measurements of the maximum achievable bandwidth on IP networks. 
 * [mtr](https://bitwizard.nl/mtr/) - Traceroute and ping combined into once tool, with next hop helpfully visualized.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches the current directory for a regex pattern with user-friendly ergonomics. 
-* [steampipe](https://steampipe.io/) for querying cloud providers
-* [visidata](https://www.visidata.org/) for visualization, processing, and analysis
+* [steampipe](https://steampipe.io/) - Query cloud providers with SQL
+* [visidata](https://www.visidata.org/) - Visualization, processing, and analysis
+* [youtube-dl](https://youtube-dl.org) - A reliable CLI utility for saving video files offline.
 
 ## Productivity
 
@@ -36,7 +37,7 @@ Other tools of note include:
 * [Ulysses](https://ulysses.app/) for short-form notetaking.
 * [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
 * [Overcast](https://overcast.fm/) for podcasts.
-* [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures with [youtube-dl](https://youtube-dl.org) and listen to them on the go.
+* [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures and listen to them on the go.
 * [Reeder](https://www.reederapp.com) for RSS. I use RSS as an efficient way to follow YouTube channels.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
 * [Carrot Weather](https://www.meetcarrot.com/weather/)
