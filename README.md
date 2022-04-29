@@ -40,6 +40,7 @@ Other tools of note include:
 * [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
 * [Overcast](https://overcast.fm/) for podcasts.
 * [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures and listen to them on the go.
+* [Scanner Pro](https://readdle.com/scannerpro) for digitizing documents.
 * [Reeder](https://www.reederapp.com) for RSS. I use RSS as an efficient way to follow YouTube channels.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
 * [Carrot Weather](https://www.meetcarrot.com/weather/)
