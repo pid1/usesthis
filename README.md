@@ -77,3 +77,33 @@ When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-K
 * [Security Weekly](https://securityweekly.com/)
 * [Usenix](https://www.youtube.com/user/usenixassociation)
 * [Usenix Enigma](https://www.youtube.com/c/USENIXEnigmaConference)
+
+## Travel
+## Storage
+* [Twelve South Macbook Suitcase](https://www.twelvesouth.com/products/suitcase-for-macbook)
+
+## Electronics
+* [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4)
+* [Beats Fit Pro](https://www.beatsbydre.com/earbuds/beats-fit-pro)
+* [Anker Powercore 20K](https://us.anker.com/collections/power-banks/products/a1287?variant=41110977642646)
+* [Anker Powerport III Nano](https://us.anker.com/products/b2633123)
+* [Lightning Digital AV Adapter])(https://www.apple.com/shop/product/MD826AM/A/lightning-digital-av-adapter?fnode=40372b11949a4365eb4cce128ed858d6cd837d5b3e386cd6de78ed05144cf69e7e34f5f7286aea8c69be43966528122c3e23fd13d40c498b3fd453e6ae1733fc9847cacbcc8601cff0f36170640cd094589116fe9c506e2e9c443bf47f585953c268c25d5d4cdc17b9ecee55973adcb6)
+* [USB-C Digital AV Multiport Adapter](https://www.apple.com/shop/product/MUF82AM/A/usb-c-digital-av-multiport-adapter?fnode=3b82aa557064386b038d62991617e5ed81064a9be6ce4f113406013c0f1aa2d8fb3dd9e25e70b73cf853e560249fcdd5879e3ea26508412e385ceb9a80cde41eede928741cba96e3000852fcc0dc830b82904d9437906cfeab2fd5f6a2c8ab0a)
+* USB-C to Lightning cable
+* USB-C to USB-C cable
+* Garmin watch charging cable
+
+## Health
+* [1L Hydro Flask])(https://www.rei.com/product/168732/hydro-flask-wide-mouth-vacuum-water-bottle-32-fl-oz)
+* [Aspirin in a Nalgene polyethylene travel bottle](https://www.rei.com/product/402057/nalgene-polyethylene-bottle-1-fl-oz)
+
+## Stationary
+* [8.5x11 Moleskine, Ruled](https://www.moleskine.com/en-us/shop/notebooks/the-original-notebook/classic-notebook-black-9788883701122.html)
+* [Sharpie Clear View Highlighter](https://www.sharpie.com/highlighters/sharpie-clear-view-stick-highlighters-see-through-chisel-tip/SAP_1950744.html)
+* [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx)
+* [Backup Fisher Bullet])(https://www.spacepen.com/400B.aspx)
+* [Spare ink](https://www.spacepen.com/cartridge-2.aspx)
+
+## Clothing and Accessories
+* [Enso Rings Ultralite Silicone Ring](https://ensorings.com/products/ultralite-silicone-ring-obsidian)
+* [REI Flash Insulated Jacket](https://www.rei.com/product/192845/rei-co-op-flash-insulated-jacket-mens)
