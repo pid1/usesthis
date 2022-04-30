@@ -79,10 +79,10 @@ When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-K
 * [Usenix Enigma](https://www.youtube.com/c/USENIXEnigmaConference)
 
 ## Travel
-## Storage
+### Storage
 * [Twelve South Macbook Suitcase](https://www.twelvesouth.com/products/suitcase-for-macbook)
 
-## Electronics
+### Electronics
 * [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4)
 * [Beats Fit Pro](https://www.beatsbydre.com/earbuds/beats-fit-pro)
 * [Anker Powercore 20K](https://us.anker.com/collections/power-banks/products/a1287?variant=41110977642646)
@@ -93,17 +93,17 @@ When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-K
 * USB-C to USB-C cable
 * Garmin watch charging cable
 
-## Health
+### Health
 * [1L Hydro Flask])(https://www.rei.com/product/168732/hydro-flask-wide-mouth-vacuum-water-bottle-32-fl-oz)
 * [Aspirin in a Nalgene polyethylene travel bottle](https://www.rei.com/product/402057/nalgene-polyethylene-bottle-1-fl-oz)
 
-## Stationary
+### Stationary
 * [8.5x11 Moleskine, Ruled](https://www.moleskine.com/en-us/shop/notebooks/the-original-notebook/classic-notebook-black-9788883701122.html)
 * [Sharpie Clear View Highlighter](https://www.sharpie.com/highlighters/sharpie-clear-view-stick-highlighters-see-through-chisel-tip/SAP_1950744.html)
 * [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx)
 * [Backup Fisher Bullet])(https://www.spacepen.com/400B.aspx)
 * [Spare ink](https://www.spacepen.com/cartridge-2.aspx)
 
-## Clothing and Accessories
+### Clothing and Accessories
 * [Enso Rings Ultralite Silicone Ring](https://ensorings.com/products/ultralite-silicone-ring-obsidian)
 * [REI Flash Insulated Jacket](https://www.rei.com/product/192845/rei-co-op-flash-insulated-jacket-mens)
