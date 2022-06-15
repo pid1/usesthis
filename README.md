@@ -79,8 +79,6 @@ When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-K
 * [Usenix Enigma](https://www.youtube.com/c/USENIXEnigmaConference)
 
 ## Travel
-### Storage
-* [Twelve South Macbook Suitcase](https://www.twelvesouth.com/products/suitcase-for-macbook)
 
 ### Electronics
 * [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4)
@@ -95,10 +93,8 @@ When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-K
 
 ### Health
 * [1L Hydro Flask](https://www.rei.com/product/168732/hydro-flask-wide-mouth-vacuum-water-bottle-32-fl-oz)
-* [Aspirin in a Nalgene polyethylene travel bottle](https://www.rei.com/product/402057/nalgene-polyethylene-bottle-1-fl-oz)
 
 ### Stationary
-* [8.5x11 Moleskine, Ruled](https://www.moleskine.com/en-us/shop/notebooks/the-original-notebook/classic-notebook-black-9788883701122.html)
 * [Sharpie Clear View Highlighter](https://www.sharpie.com/highlighters/sharpie-clear-view-stick-highlighters-see-through-chisel-tip/SAP_1950744.html)
 * [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx)
 * [Backup Fisher Bullet](https://www.spacepen.com/400B.aspx)
