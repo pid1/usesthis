@@ -43,13 +43,12 @@ Other tools of note include:
 * [Reeder](https://www.reederapp.com) for RSS. I use RSS as an efficient way to follow YouTube channels.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
 * [Carrot Weather](https://www.meetcarrot.com/weather/)
-* [Garmin Epix2](https://www.garmin.com/en-US/p/760778) for fitness tracking, paired with a [Index S2](https://www.garmin.com/en-US/p/679362) scale.
 
 ## Writing
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Notes are moved to Markdown files for long-term storage.
 
 ## Reading
-When not physical media, I use a [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4) for all my reading needs. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
+When not physical media, I use a Kindle Scribe for all my reading. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
 
 ## News
 ### Newsletters
