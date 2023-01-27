@@ -36,29 +36,29 @@ Other tools of note include:
 
 * Apple's Reminders as a shared household task tracker for grocery lists, recurring chores, and one-off tasks.
 * Apple's Calendar. We use shared calender invitations to track shared family events like doctor appointments, household events, and major errands.
-* [Notion](https://notion.so) as both a personal knowledgebase and family wiki. I keep things like packing checklists, contact information for household contractors, recipe ideas and more all in one place.
 * [Overcast](https://overcast.fm/) for podcasts.
 * [Documents](https://readdle.com/documents) for on-the-go consumption of PDFs, video, and audio. I frequently grab copies of conference talks or lectures and listen to them on the go.
 * [Scanner Pro](https://readdle.com/scannerpro) for digitizing documents.
 * [Reeder](https://www.reederapp.com) for RSS. I use RSS as an efficient way to follow YouTube channels.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
-* [Carrot Weather](https://www.meetcarrot.com/weather/)
+* [Carrot Weather](https://www.meetcarrot.com/weather/
 
 ## Writing
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Notes are moved to Markdown files for long-term storage.
 
 ## Reading
-When not physical media, I use a Kindle Scribe for all my reading. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
+When not physical media, I use a [Kindle Scribe](https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B) for all my reading. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
 
 ## News
 ### Newsletters
 * [The Cloud Security Reading List](https://cloudseclist.com/)
 * [DevOps Weekly](https://www.devopsweekly.com/)
 * [Last Week in AWS](https://www.lastweekinaws.com/)
+* [Last Week in AI](https://www.lastweekin.ai)
 * [SRE Weekly](https://sreweekly.com/)
 * [tl;dr sec](https://tldrsec.com/)
 ### Aggregation Websites
-* [Lobste.rs](https://lobste.rs/) - I follow via [RSS](https://lobste.rs/rss/) in [Reeder](https://www.reederapp.com).
+* [Lobste.rs](https://lobste.rs/) - I follow via [RSS](https://lobste.rs/rss/).
 ### Blogs
 * [Brendan Gregg](https://www.brendangregg.com/blog/)
 * [Brian Krebs](https://krebsonsecurity.com/)
@@ -72,6 +72,8 @@ When not physical media, I use a Kindle Scribe for all my reading. I find e-ink 
 * [Rachel by the Bay](https://rachelbythebay.com/w/)
 * [Stay SaaSy](https://staysaasy.com/)
 ### Podcasts and Video Content
+* [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/)
+* [Risky Business](https://risky.biz)
 * [Security Weekly](https://securityweekly.com/)
 * [Usenix](https://www.youtube.com/user/usenixassociation)
 * [Usenix Enigma](https://www.youtube.com/c/USENIXEnigmaConference)
