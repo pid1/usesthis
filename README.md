@@ -41,7 +41,7 @@ Other tools of note include:
 * [Scanner Pro](https://readdle.com/scannerpro) for digitizing documents.
 * [Reeder](https://www.reederapp.com) for RSS. I use RSS as an efficient way to follow YouTube channels.
 * [Magnet](https://magnet.crowdcafe.com) for window management.
-* [Carrot Weather](https://www.meetcarrot.com/weather/
+* [Carrot Weather](https://www.meetcarrot.com/weather/)
 
 ## Writing
 Notes written during meetings, while reading, or off-grid are taken down on paper using a [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx). It feels great, writes well, and the [ink](https://www.spacepen.com/cartridge-2.aspx) still works when camping. Notes are moved to Markdown files for long-term storage.
@@ -79,7 +79,7 @@ When not physical media, I use a [Kindle Scribe](https://www.amazon.com/Introduc
 * [Usenix Enigma](https://www.youtube.com/c/USENIXEnigmaConference)
 
 ## Stationary
-* [Sharpie Clear View Highlighter](https://www.sharpie.com/highlighters/sharpie-clear-view-stick-highlighters-see-through-chisel-tip/SAP_1950744.html)
 * [Fisher AG7](https://www.spacepen.com/originalastronautspacepen.aspx)
 * [Backup Fisher Bullet](https://www.spacepen.com/400B.aspx)
 * [Spare ink](https://www.spacepen.com/cartridge-2.aspx)
+* [Rite in the Rain notebooks](https://www.riteintherain.com)
