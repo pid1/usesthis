@@ -12,14 +12,25 @@ I prefer [Tower](https://www.git-tower.com/mac) when working with Git in corpora
 
 I use [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) as a screen keep-awake utility.
 
-I manage a small number of applications using [nix](https://nix.dev/). Anything else goes into a reproducible container or virtual machine.
+I manage a small number of applications using [homebrew](https://brew.sh). Anything else goes into a reproducible container or virtual machine.
 
 ### CLI
 I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. 
 
 I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/dotfiles/blob/master/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
 
-See my [nix config](https://github.com/pid1/usesthis/blob/main/shell.nix) for other tools.
+Other tools of note include:
+* [bat](https://github.com/sharkdp/bat) - A version of `cat` designed for interactive terminal use.
+* [drill](https://www.nlnetlabs.nl/projects/ldns/about/) - Debugging/query tool for DNS/DNSSEC.
+* [fzf](https://github.com/sharkdp/hyperfine) - Flexible fuzzy-finder tool.
+* [gimme-aws-creds](https://github.com/Nike-Inc/gimme-aws-creds) - A CLI that utilizes Okta IdP via SAML to acquire temporary AWS credentials.
+* [httpie](https://httpie.io) - For interacting with HTTP endpoints.
+* [iperf3](https://iperf.fr/) - A tool for active measurements of the maximum achievable bandwidth on IP networks. 
+* [mtr](https://bitwizard.nl/mtr/) - Traceroute and ping combined into once tool, with next hop helpfully visualized.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches the current directory for a regex pattern with user-friendly ergonomics. 
+* [steampipe](https://steampipe.io/) - Query cloud providers with SQL.
+* [visidata](https://www.visidata.org/) - Visualization, processing, and analysis.
+* [youtube-dl](https://youtube-dl.org) - A reliable CLI utility for saving video files offline.
 
 ## Productivity
 
