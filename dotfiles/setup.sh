@@ -26,8 +26,8 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin \
 */1 * * * *   root curl https://github.com/pid1.keys > /home/root/.ssh/authorized_keys' > /etc/cron.d/keys
 
 # Configs
-curl https://raw.githubusercontent.com/pid1/dotfiles/master/tmux.conf > /root/.tmux.conf
-curl https://raw.githubusercontent.com/pid1/dotfiles/master/bash_aliases > /root/.bash_aliases
+curl https://raw.githubusercontent.com/pid1/usesthis/main/dotfiles/main/tmux.conf > /root/.tmux.conf
+curl https://raw.githubusercontent.com/pid1/usesthis/main/dotfiles/main/bash_aliases > /root/.bash_aliases
 
 mkdir -p /root/.config/nvim
-curl https://raw.githubusercontent.com/pid1/dotfiles/master/init.vim > /root/.config/nvim/init.vim
+curl https://raw.githubusercontent.com/pid1/usesthis/main/dotfiles/main/init.vim > /root/.config/nvim/init.vim
