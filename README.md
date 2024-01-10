@@ -4,15 +4,11 @@ A description of my various workflows in the vein of [Uses This](https://usesthi
 
 ## Coding
 ### Workflows
-I use [Visual Studio Code](https://code.visualstudio.com) for all of my projects. As mentioned in my [dotfiles](https://github.com/pid1/dotfiles), I usually spin up Digital Ocean instances to use as disposable development environments and connect via the [Remote SSH extension](https://code.visualstudio.com/docs/remote/ssh). I use [Copilot](https://github.com/features/copilot) for code completion. I use a variety of per-language extensions based on the project including [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck), [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
+I use [Visual Studio Code](https://code.visualstudio.com) for all of my projects. I use [nix](https://nixos.org/) to create disposable development environments. I use [Copilot](https://github.com/features/copilot) for code completion. I use a variety of per-language extensions based on the project including [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck), [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
 
 I still install [neovim](https://neovim.io/) with a small configuration [snippet](https://github.com/pid1/dotfiles/blob/master/init.vim) into my virtual machine instances for quick edits of configuration files and the like.
 
 I prefer [Tower](https://www.git-tower.com/mac) when working with Git in corporate environments.
-
-I use [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) as a screen keep-awake utility.
-
-I manage a small number of applications using [nix](https://nix.dev/). Anything else goes into a reproducible container or virtual machine.
 
 ### CLI
 I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. 
