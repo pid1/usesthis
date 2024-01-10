@@ -15,8 +15,6 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 
 I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/usesthis/blob/main/dotfiles/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
 
-See my [nix config](https://github.com/pid1/usesthis/blob/main/shell.nix) for other tools.
-
 ## Productivity
 
 * Apple's Reminders as a shared household task tracker for grocery lists, recurring chores, and one-off tasks.
