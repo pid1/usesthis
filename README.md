@@ -15,6 +15,16 @@ I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fi
 
 I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/usesthis/blob/main/dotfiles/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
 
+Other utilities include:
+
+* [httpie](https://httpie.io/) for working with APIs
+* [ldns](https://github.com/NLnetLabs/ldns) for DNS debugging
+* [mtr](https://github.com/traviscross/mtr) for network visibility and debugging
+* [ripgrep](https://github.com/BurntSushi/ripgrep) for fast searching
+* [visidata](https://www.visidata.org/) for data exploration
+* [steampipe](https://steampipe.io/) for using SQL to query cloud providers
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) for offline viewing of video content
+
 ## Productivity
 
 * Apple's Reminders as a shared household task tracker for grocery lists, recurring chores, and one-off tasks.
