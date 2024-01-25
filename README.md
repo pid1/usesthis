@@ -47,7 +47,6 @@ When not physical media, I use a [Kindle Scribe](https://www.amazon.com/Introduc
 * [The Cloud Security Reading List](https://cloudseclist.com/)
 * [DevOps Weekly](https://www.devopsweekly.com/)
 * [Last Week in AWS](https://www.lastweekinaws.com/)
-* [Last Week in AI](https://www.lastweekin.ai)
 * [SRE Weekly](https://sreweekly.com/)
 * [tl;dr sec](https://tldrsec.com/)
 ### Aggregation Websites
