@@ -6,27 +6,20 @@ A description of my various workflows in the vein of [Uses This](https://usesthi
 
 ### Workflows
 
-I use [Visual Studio Code](https://code.visualstudio.com) for all of my projects. I use [nix](https://nixos.org/) to create disposable development environments. I use [Copilot](https://github.com/features/copilot) for code completion. I use a variety of per-language extensions based on the project including [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck), [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
+I use [Visual Studio Code](https://code.visualstudio.com) for all of my projects. I use [nix](https://nixos.org/) to create disposable development environments. I use [Copilot](https://github.com/features/copilot) for code completion. I use a variety of per-language extensions based on the project.
 
-I still install [neovim](https://neovim.io/) with a small configuration [snippet](https://github.com/pid1/dotfiles/blob/master/init.vim) into my virtual machine instances for quick edits of configuration files and the like.
-
-I prefer [Tower](https://www.git-tower.com/mac) when working with Git in corporate environments.
+I use [Tower](https://www.git-tower.com/mac) when working with Git in corporate environments.
 
 ### CLI
 
 I use [iTerm2](https://iterm2.com) as my terminal emulator and [fish](https://fishshell.com) as my interactive shell with minimal customization. 
 
-I use a combination of [mosh](https://mosh.org) and a [tmux](https://github.com/tmux/tmux) [alias](https://github.com/pid1/usesthis/blob/main/dotfiles/bash_aliases#L2) to "float" my remote sessions between spotty connections, LTE tethering, or different machines entirely. Mosh's intelligent local echo makes working from spotty remote connections much more efficient.
-
 Other utilities include:
 
 * [httpie](https://httpie.io/) for working with APIs
-* [ldns](https://github.com/NLnetLabs/ldns) for DNS debugging
-* [mtr](https://github.com/traviscross/mtr) for network visibility and debugging
 * [ripgrep](https://github.com/BurntSushi/ripgrep) for fast searching
 * [visidata](https://www.visidata.org/) for data exploration
 * [steampipe](https://steampipe.io/) for using SQL to query cloud providers
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) for offline viewing of video content
 * [Tailscale](https://tailscale.com/) for remote access
 
 ## Productivity
@@ -38,7 +31,7 @@ Other utilities include:
 * [Scanner Pro](https://readdle.com/scannerpro) for digitizing documents
 * [NetNewsWire](https://netnewswire.com/) and self-hosted [FreshRSS](https://www.freshrss.org/) for RSS
 * [Magnet](https://magnet.crowdcafe.com) for window management
-* [Carrot Weather](https://www.meetcarrot.com/weather/)
+* [Carrot Weather](https://www.meetcarrot.com/weather/) for weather and alerts
 
 ## Writing
 
@@ -46,4 +39,8 @@ Notes written during meetings, while reading, or off-grid are taken down on pape
 
 ## Reading
 
-When not physical media, I use a [Kindle Scribe](https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B) for all my reading. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert sufficiently long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
+When not physical media, I use a [Kindle Scribe](https://www.amazon.com/Amazon-Kindle-Scribe/dp/B0CZ9VFQ2P?th=1) or [Kindle Paperwhite](https://www.amazon.com/All-new-Amazon-Kindle-Paperwhite-glare-free/dp/B0CFPJYX7P) for all my reading. I find e-ink to be significantly more comfortable than any other display surface for long-term reading. I convert long media to an e-reader compatible format using [Calibre](https://calibre-ebook.com).
+
+## IRL
+
+I use [GoRuck](https://www.goruck.com/) bags for carrying my gear. I wear [Xero](https://xeroshoes.com/) shoes. I write using a [Fisher AG7](https://www.spacepen.com/shop-space-pens/style/astronaut-series/ag7-original-astronaut-space-pen).
